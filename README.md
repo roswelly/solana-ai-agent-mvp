@@ -1,6 +1,6 @@
 # Solana AI Agent 🤖
  
- Solana AI agents - Swap tokens, manage wallets, transfer funds, and stake SOL — all without human intervention.
+ Solana AI agent - Swap tokens, manage wallets, transfer funds, and stake SOL — all without human intervention.
 
 **Solana AI Agent** gives agents economic agency:
 - Create and manage wallets
