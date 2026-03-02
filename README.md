@@ -480,4 +480,4 @@ MIT
 
 - GitHub Issues: [Report bugs or request features](https://github.com/roswelly/solana-ai-agent/issues)
 
-
+## Keywords : **solana ai agent**, **agent automation**, "trading automation**
